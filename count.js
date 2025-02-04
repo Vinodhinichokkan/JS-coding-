@@ -19,4 +19,3 @@ const inputString = 'HELLO WORLD' // { H: 1, E: 1, L: 3, O: 2, ' ': 1, W: 1, R: 
 const CharacterCounts = countCharacterOccurences(inputString);
 
 console.log(CharacterCounts)
-console.log(characterCounts)
