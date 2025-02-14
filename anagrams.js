@@ -14,4 +14,6 @@ function areAnagrams(str1, str2) {
 
 // Example usage
 console.log(areAnagrams("listen", "silent")); // true
-console.log(areAnagrams("hello", "world")); // false 
+console.log(areAnagrams("hello", "world"));  // false
+
+

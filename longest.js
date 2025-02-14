@@ -15,8 +15,3 @@ function findLongestWord(sentence){
 
 const sentence = 'Subscribe to Abi for more updates'
 console.log(findLongestWord(sentence));
-
-
-
-
-
