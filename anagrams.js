@@ -17,3 +17,7 @@ console.log(areAnagrams("listen", "silent")); // true
 console.log(areAnagrams("hello", "world"));  // false
 
 
+
+
+
+

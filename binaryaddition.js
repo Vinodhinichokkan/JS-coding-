@@ -10,7 +10,7 @@ function addBinary(a,b){
 
     for(let i = maxLength -1; i>=0; i--){
         //a[0]='1' b[0]='1'
-        // 1 + 1 + carry(0) = 2
+        // 1 + 1 + carry(0) = 2inTo 
         //sum = 2
         let sum = parseInt(a[i]) + parseInt(b[i]) + carry;
 
@@ -33,3 +33,9 @@ function addBinary(a,b){
     return result;
 }
 console.log(addBinary('1010','1101')); //10111
+
+console.log(addBinary('1010','1101')); //10111
+
+console.log(addBinary('1010','11101'));
+
+
