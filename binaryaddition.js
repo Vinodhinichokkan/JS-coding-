@@ -36,6 +36,8 @@ console.log(addBinary('1010','1101')); //10111
 
 console.log(addBinary('1010','1101')); //10111
 
-console.log(addBinary('1010','11101'));
+console.log(addBinary('1010','11101')); //1010111
+
+console.log(addBinary('1011','10100'));  //11111
 
 
