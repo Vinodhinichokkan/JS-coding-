@@ -6,7 +6,7 @@ function addBinary(a,b){
     a = a.padStart(maxLength,'0');
     b = b.padStart(maxLength, '0');
 
-    //Bitwise
+    //Bitwise operator
 
     for(let i = maxLength -1; i>=0; i--){
         //a[0]='1' b[0]='1'
