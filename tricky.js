@@ -43,4 +43,26 @@ console.log(x);
 
 console.log(NaN == NaN)
 
+//------------------------
 
+console.log(y);
+
+var y = "Hello";
+console.log(y);  //Hello
+//---------------
+
+/*console.log(+ true)  true
+console.log(!sai)  false*/
+
+
+//------------------------
+
+console.log([]+[]);  // ""
+console.log([1]+[]);   //  1
+console.log([1]+ "abc");   //1abc
+
+//-----------------------------
+
+const s = [1,2];
+const v = "1,1";
+console.log(x == y);  //false
