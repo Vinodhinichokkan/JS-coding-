@@ -66,3 +66,5 @@ console.log([1]+ "abc");   //1abc
 const s = [1,2];
 const v = "1,1";
 console.log(x == y);  //false
+
+
